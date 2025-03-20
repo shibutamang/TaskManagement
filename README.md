@@ -1,4 +1,25 @@
 # Task Management
+
+### **Prerequisites**
+
+Before running the Task Management API, ensure you have the following installed on your development machine:
+
+1. **.NET 8 SDK**
+   - Install the latest version of the [.NET SDK](https://dotnet.microsoft.com/download) (preferably .NET 8 or later).
+   - Verify the installation by running:
+     ```bash
+     dotnet --version
+     ```
+
+2. **IDE or Code Editor**
+   - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) (Community, Professional, or Enterprise) with the **ASP.NET and web development** workload.
+   - Alternatively, use [Visual Studio Code](https://code.visualstudio.com/) with the following extensions:
+     - C# for Visual Studio Code
+     - .NET Core Tools
+
+3. **Database**
+   - SQLite DB, (in-memory database for rapid development purposes.)
+
 ### **Core Features**
 
 1. **Task Management**
